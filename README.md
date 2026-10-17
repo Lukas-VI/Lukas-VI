@@ -37,14 +37,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**关注方向**
-
-![自动驾驶](https://img.shields.io/badge/GPU%20%E6%8E%A8%E7%90%86-76B900?style=flat-square)
-![游戏引擎](https://img.shields.io/badge/%E6%9C%AC%E5%9C%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B-58A6FF?style=flat-square)
-![计算机视觉](https://img.shields.io/badge/AI%20Agent%20%E5%AE%89%E5%85%A8-D14836?style=flat-square)
-![工业物联网/自动化](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E6%B1%89%E5%8C%96-4EAA25?style=flat-square)
-![技术美术](https://img.shields.io/badge/%E6%A0%A1%E5%9B%AD%E5%B7%A5%E5%85%B7-007ACC?style=flat-square)
-
 <!-- /block:tech -->
 
 <!-- block:stats -->
@@ -59,27 +51,3 @@
 </div>
 
 <!-- /block:stats -->
-
-<!-- block:snake -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lukas-VI/Lukas-VI/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lukas-VI/Lukas-VI/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Lukas-VI/Lukas-VI/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<!-- /block:snake -->
-
-<!-- block:footer -->
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:22d3ee,100:065f46&height=120)
-
-</div>
-
-<!-- /block:footer -->
