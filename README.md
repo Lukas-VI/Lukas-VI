@@ -36,6 +36,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+
+**兴趣**
+
+![人工智能](https://img.shields.io/badge/人工智能-412991?style=flat-square)
+![建模渲染](https://img.shields.io/badge/建模渲染-E87D0D?style=flat-square)
+![技术美术](https://img.shields.io/badge/技术美术-7B61FF?style=flat-square)
+![游戏引擎](https://img.shields.io/badge/游戏引擎-478CBF?style=flat-square)
+![自动驾驶](https://img.shields.io/badge/自动驾驶-00897B?style=flat-square)
 
 <!-- /block:tech -->
 
@@ -43,10 +54,10 @@
 
 <div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-VI&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lukas-VI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=Lukas-VI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-VI&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
 </div>
 
