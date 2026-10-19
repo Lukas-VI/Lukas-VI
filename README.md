@@ -9,19 +9,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**嵌入式 / 底层**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GCC](https://img.shields.io/badge/GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 **后端**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **前端**
 
@@ -39,6 +30,9 @@
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-000000?style=flat-square&logo=flstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![嘉立创EDA](https://img.shields.io/badge/嘉立创EDA-00AEEF?style=flat-square)
 
 **兴趣**
 
@@ -46,7 +40,14 @@
 ![建模渲染](https://img.shields.io/badge/建模渲染-E87D0D?style=flat-square)
 ![技术美术](https://img.shields.io/badge/技术美术-7B61FF?style=flat-square)
 ![游戏引擎](https://img.shields.io/badge/游戏引擎-478CBF?style=flat-square)
+![独立游戏](https://img.shields.io/badge/独立游戏-478CBF?style=flat-square)
+![概念设计](https://img.shields.io/badge/概念设计-7B61FF?style=flat-square)
+![绘画](https://img.shields.io/badge/绘画-E87D0D?style=flat-square)
+![编曲混音](https://img.shields.io/badge/编曲混音-412991?style=flat-square)
+![DJing](https://img.shields.io/badge/DJing-00897B?style=flat-square)
+![虚拟现实](https://img.shields.io/badge/虚拟现实-F4392B?style=flat-square)
 ![自动驾驶](https://img.shields.io/badge/自动驾驶-00897B?style=flat-square)
+![嵌入式](https://img.shields.io/badge/嵌入式-10897B?style=flat-square)
 
 <!-- /block:tech -->
 
