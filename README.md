@@ -34,7 +34,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![嘉立创EDA](https://img.shields.io/badge/嘉立创EDA-00AEEF?style=flat-square)
 
-**兴趣**
+### 🎨 兴趣
 
 ![人工智能](https://img.shields.io/badge/人工智能-412991?style=flat-square)
 ![建模渲染](https://img.shields.io/badge/建模渲染-E87D0D?style=flat-square)
