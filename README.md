@@ -44,11 +44,29 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-VI&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lukas-VI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=Lukas-VI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <!-- /block:stats -->
+
+<!-- block:equipment -->
+
+### Equipment
+
+#### Desktop
+
+Laptop: Lenovo ThinkBook 16+ 2022 32G+4T (Win11Pro/Fedora Linux)
+
+eGPU: Geforce RTX2080Ti22G 
+
+#### Mobile
+
+Main Phone: Xiaomi 13 Ultra
+
+Backup Phone: Redmi K80 Pro
+
+Pad: Xiaomi Pad 5 (HyperOS3/Win11proWoA)
+
+
+<!-- /block:equipment -->
