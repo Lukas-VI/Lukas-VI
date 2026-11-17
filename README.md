@@ -52,7 +52,7 @@
 
 <!-- block:equipment -->
 
-### Equipment
+### 装备/Equipment
 
 #### Desktop
 
@@ -67,6 +67,15 @@ Main Phone: Xiaomi 13 Ultra
 Backup Phone: Redmi K80 Pro
 
 Pad: Xiaomi Pad 5 (HyperOS3/Win11proWoA)
+
+#### Creative
+
+VR headset: Oculus Quest3
+
+Mixer: NI S2 MK3
+
+Graphics tablet: GAOMAN M4
+
 
 
 <!-- /block:equipment -->
