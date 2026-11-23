@@ -46,9 +46,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-VI&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
-![GitHub Stats]<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lukas-VI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lukas-VI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak]<img height="170" src="https://streak-stats.demolab.com?user=Lukas-VI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=Lukas-VI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
